@@ -13,7 +13,6 @@
 		1BEF08521DBB132900279815 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1BEF08501DBB132900279815 /* Main.storyboard */; };
 		1BEF08541DBB132A00279815 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1BEF08531DBB132A00279815 /* Assets.xcassets */; };
 		1BEF08571DBB132A00279815 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1BEF08551DBB132A00279815 /* LaunchScreen.storyboard */; };
-		1BEF08601DBB1D8000279815 /* YidaHuLian.m in Sources */ = {isa = PBXBuildFile; fileRef = 1BEF085F1DBB1D8000279815 /* YidaHuLian.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,8 +26,6 @@
 		1BEF08531DBB132A00279815 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1BEF08561DBB132A00279815 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		1BEF08581DBB132A00279815 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		1BEF085E1DBB1D7F00279815 /* YidaHuLian.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = YidaHuLian.h; sourceTree = "<group>"; };
-		1BEF085F1DBB1D8000279815 /* YidaHuLian.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = YidaHuLian.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -70,8 +67,6 @@
 				1BEF08551DBB132A00279815 /* LaunchScreen.storyboard */,
 				1BEF08581DBB132A00279815 /* Info.plist */,
 				1BEF08471DBB132900279815 /* Supporting Files */,
-				1BEF085E1DBB1D7F00279815 /* YidaHuLian.h */,
-				1BEF085F1DBB1D8000279815 /* YidaHuLian.m */,
 			);
 			path = testDemo;
 			sourceTree = "<group>";
@@ -158,7 +153,6 @@
 				1BEF084F1DBB132900279815 /* ViewController.m in Sources */,
 				1BEF084C1DBB132900279815 /* AppDelegate.m in Sources */,
 				1BEF08491DBB132900279815 /* main.m in Sources */,
-				1BEF08601DBB1D8000279815 /* YidaHuLian.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
